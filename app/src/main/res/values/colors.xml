@@ -1,0 +1,88 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="color1">#F4F2F5</color>
+    <color name="color2">#FAF9F7</color>
+    <color name="color3">#FDFBE6</color>
+    <color name="color4">#FCF6E6</color>
+    <color name="color5">#FDF8E5</color>
+    <color name="color6">#F9F1EF</color>
+    <color name="color7">#F2EAE7</color>
+    <color name="color8">#F3E9E7</color>
+    <color name="color9">#F4F1EC</color>
+    <color name="color10">#FBFCF6</color>
+    <color name="color11">#FCF8EF</color>
+    <color name="color12">#FFF5E1</color>
+    <color name="color13">#FEF6E1</color>
+    <color name="color14">#FFF9E1</color>
+    <color name="color15">#FEFADF</color>
+    <color name="color16">#F1E7C3</color>
+    <color name="color17">#EFE2AD</color>
+    <color name="color18">#E0D291</color>
+    <color name="color19">#F2E295</color>
+    <color name="color20">#E8D89D</color>
+    <color name="color21">#EAD88C</color>
+    <color name="color22">#E2C665</color>
+    <color name="color23">#E1C16A</color>
+    <color name="color24">#E1C079</color>
+    <color name="color25">#DEB877</color>
+    <color name="color26">#C7A369</color>
+    <color name="color27">#BE9567</color>
+    <color name="color28">#996C45</color>
+    <color name="color29">#9B6B47</color>
+    <color name="color30">#90573C</color>
+    <color name="color31">#7A4D2E</color>
+    <color name="color32">#7B4D2B</color>
+    <color name="color33">#643114</color>
+    <color name="color34">#653020</color>
+    <color name="color35">#603121</color>
+    <color name="color36">#613021</color>
+    <color name="color37">#573229</color>
+    <color name="color38">#402015</color>
+    <color name="color39">#30252B</color>
+    <color name="color40">#1B1C2E</color>
+
+    <array name="tone_colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+        <item>@color/color11</item>
+        <item>@color/color12</item>
+        <item>@color/color13</item>
+        <item>@color/color14</item>
+        <item>@color/color15</item>
+        <item>@color/color16</item>
+        <item>@color/color17</item>
+        <item>@color/color18</item>
+        <item>@color/color19</item>
+        <item>@color/color20</item>
+        <item>@color/color21</item>
+        <item>@color/color22</item>
+        <item>@color/color23</item>
+        <item>@color/color24</item>
+        <item>@color/color25</item>
+        <item>@color/color26</item>
+        <item>@color/color27</item>
+        <item>@color/color28</item>
+        <item>@color/color29</item>
+        <item>@color/color30</item>
+        <item>@color/color31</item>
+        <item>@color/color32</item>
+        <item>@color/color33</item>
+        <item>@color/color34</item>
+        <item>@color/color35</item>
+        <item>@color/color36</item>
+        <item>@color/color37</item>
+        <item>@color/color38</item>
+        <item>@color/color39</item>
+        <item>@color/color40</item>
+    </array>
+
+</resources>
